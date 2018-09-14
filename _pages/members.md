@@ -28,6 +28,7 @@ author_profile: false
 
 | Name                    | Home Institution      |  Dates                           | More Information                                          |
 | ----------------------- | --------------------- | -------------------------------- | --------------------------------------------------------  |
+| Ingrid Vazquez-Holm       |  University of Oslo |  27 August - 31 August 2018 | sagex.org |
 | Zvi Bern       |  UCLA |  28 July - 29 July 2018 | [Bhaumik Institute](http://bhaumik-institute.physics.ucla.edu/)  |
 | Donal O'Connell       | University of Edinburgh  | 24 July - 27 July 2018 | [Edinburgh](https://www.ph.ed.ac.uk/people/donal-oconnell)  |
 | Henrik Johansson       | Uppsala and  NORDITA  | 16 May - 20 May 2018 | [Uppsala](http://www.physics.uu.se/research/theoretical-physics/people/henrik-johansson/) / [NORDITA](https://www.nordita.org/people/staff/index.php?u=henrik.johansson)  |
