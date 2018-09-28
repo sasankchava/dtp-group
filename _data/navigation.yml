@@ -1,6 +1,9 @@
 
 # main links links
 main:
+  - title: "What We Do"
+    url: /whatwedo/
+
   - title: "Members and Visitors"
     url: /members/
 
@@ -9,9 +12,6 @@ main:
 
   - title: "Code of Conduct"
     url: /conduct/
-
-  - title: "What We Do"
-    url: /whatwedo/
 
   - title: "Work Guidelines"
     url: /workguidelines/
