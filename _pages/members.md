@@ -21,6 +21,7 @@ author_profile: false
 | Michele Levi            | Postdoc, IPhT Member                | [Defying Gravity](https://sites.google.com/view/levim/home)|
 | Laurentiu Rodina        | Postdoc, IPhT Member                | [inSPIRE](http://inspirehep.net/search?ln=en&ln=en&p=find+a+l+rodina&of=hb&action_search=Search&sf=&so=d&rm=&rg=100&sc=0)|
 | Ingrid Vazquez-Holm | Ph.D student, IPhT Member                | |
+|  Matthew Lewandowski | Postdoc, IPhT Member                | [inSPIRE](http://inspirehep.net/search?p=exactauthor%3AMatthew.Lewandowski.1&sf=earliestdate)|
 
 
 
@@ -28,6 +29,7 @@ author_profile: false
 
 | Name                    | Home Institution      |  Dates                           | More Information                                          |
 | ----------------------- | --------------------- | -------------------------------- | --------------------------------------------------------  |
+|   Ömer Gürdoğan                          |  University of Southampton |  8 October - 15 October 2018 | [INSPIRE](http://inspirehep.net/search?p=exactauthor%3AO.C.Gurdogan.1&sf=earliestdate) |
 | Ingrid Vazquez-Holm       |  University of Oslo |  27 August - 31 August 2018 | [SAGEx](http://sagex.org) |
 | Zvi Bern       |  UCLA |  28 July - 29 July 2018 | [Bhaumik Institute](http://bhaumik-institute.physics.ucla.edu/)  |
 | Donal O'Connell       | University of Edinburgh  | 24 July - 27 July 2018 | [Edinburgh](https://www.ph.ed.ac.uk/people/donal-oconnell)  |
