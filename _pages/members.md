@@ -27,9 +27,9 @@ author_profile: false
 
 ## Previous Group Members
 
-| Name                    | Home Institution      | More Information                                          |
+| Name                    | Home Institution      | Currently                                |
 | ----------------------- | --------------------- | --------------------------------------------------------  |
-| Michele Levi            | Postdoc, IPhT Member '16-'19        | [Defying Gravity](https://sites.google.com/view/levim/home)|
+| Michele Levi            | Postdoc, IPhT Member '16-'19        | [Asst. Prof. NBI](https://www.nbi.ku.dk/english/staff/?pure=en/persons/654163) |
 
 ## Recent IPhT-Group Visitors
 
