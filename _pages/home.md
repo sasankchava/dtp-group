@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /
-title: "Welcome to the Northwestern University / Paris-Saclay Group for Declarative Theoretical Physics."
+title: "Welcome to the Northwestern University / Paris-Saclay Group for Amplitudes and Insights"
 header:
   overlay_color: "#5e616c"
   overlay_image: jjTheoryGryInf.jpg
@@ -19,13 +19,13 @@ feature_row:
 
 ## Computers are great. Ideas are better.
 
-The DTP Group likes to push the line of *failure-point predictions*.  These involve calculations that take modern methods and world-class technologies to their breaking-point.  To make progress, by definition, this strategy invites new ideas, new physical stories, and ultimately the apprehension of novel structure.
+The Amplitudes and Insights effort likes to push the line of *failure-point predictions*.  These involve calculations that take modern methods and world-class technologies to their breaking-point.  To make progress, by definition, this strategy invites new ideas, new physical stories, and ultimately the apprehension of novel structure.
 
 The goal is deep physical insight, with a joy in developing and leveraging --- for mutual benefit --- domain expertise in scattering amplitudes, relativity, quantum field theory, string theory, and cosmology.
 
 Like players of [*advanced chess*](https://en.wikipedia.org/wiki/Advanced_Chess), group members are encouraged to invoke algorithms and automation to aid in tactically navigating the diverging tree of candidate moves.
 
-  With John Joseph joining the faculty at Northwestern University in Sep 2018 the group now maintains an international presence. In the USA the group is located along the lake just north of Chicago in the [Department of Physics and Astronomy](https://www.physics.northwestern.edu) of the Weinberg College of Arts and Sciences of [Northwestern University](https://www.northwestern.edu).  In France, the group is hosted on the [Saclay plateau](https://en.wikipedia.org/wiki/Paris-Saclay), at the [Institute for Theoretical Physics (IPhT)](http://ipht.cea.fr/en/), [CEA-Saclay](http://www-centre-saclay.cea.fr/en) and [University of Paris-Saclay](https://www.universite-paris-saclay.fr/en).
+  With John Joseph joining Northwestern University in Sep 2018 the group now maintains an international presence. In the USA the group is located along the lake just north of Chicago in the [Department of Physics and Astronomy](https://www.physics.northwestern.edu) of the Weinberg College of Arts and Sciences of [Northwestern University](https://www.northwestern.edu).  In France, the group is hosted on the [Saclay plateau](https://en.wikipedia.org/wiki/Paris-Saclay), at the [Institute for Theoretical Physics (IPhT)](http://ipht.cea.fr/en/), [CEA-Saclay](http://www-centre-saclay.cea.fr/en) and [University of Paris-Saclay](https://www.universite-paris-saclay.fr/en).
 
   The group is run by [Prof. John Joseph M. Carrasco](http://prettyquestions.com). You can find most of the group's publications [here](/publications/). You can learn more about individual group members [here](/members/).
 

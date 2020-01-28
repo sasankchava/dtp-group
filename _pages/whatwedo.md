@@ -12,7 +12,7 @@ read_time: true
 
 ## Scientific Mission Statement
 
-The Declarative Theoretical Physics group pursues broad interests in fundamental physics. We build and leverage **theoretical data** towards discovering new frameworks for:
+The Amplitudes and Insights group pursues broad interests in fundamental physics. We build and leverage **theoretical data** towards discovering new frameworks for:
 
 * scattering amplitudes;
 * formal quantum field theory and string theory;
@@ -26,10 +26,6 @@ As we confront ever more subtle questions, the future of physical discovery will
 ## Developmental Mission Statement
 
 We believe that ultimately the best way to reach our personal career goals, no matter what  stage, is to ardently pursue our scientific passions.  The specifics will of course depend on where we are career-wise and where we're trying to get to.  The developmental mission of the group is to provide our members with the opportunity and support to optimize their reach for what come next. This means offering to share our scientific domain experience in support of individual goals.  It means creating space for people to build and excel at the type of skills they will need for their next positions, and ensuring that members engage meaningfully with the greater community they aspire to be a part of.
-
-## Group name
-
-  JJ playfully named our group in reference to a programming paradigm that also prefers placing focus on the logic of *what* should be accomplished rather than be tied to details of particular implementations. We think this is a good way to do physics. For more information see, [*"Naming a research group"*](http://prettyquestions.com/thoughts/Naming_a_research_group/).
 
 ## Open science
 

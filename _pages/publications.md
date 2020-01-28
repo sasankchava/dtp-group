@@ -10,7 +10,7 @@ author_profile: false
 ---
 
 Most recent HEP/Astro/Cosmology papers from group members can be found on inSPIRE via:
-[DTP group publications](http://inspirehep.net/search?ln=en&ln=en&p=find+a+J.J.M.Carrasco.1+or+a+Michele.Levi.1+or+a+L.Rodina.2&of=hb&action_search=Search&sf=&so=d&rm=&rg=250&sc=0).
+[A&I group publications](http://inspirehep.net/search?ln=en&ln=en&p=find+a+J.J.M.Carrasco.1+or+a+Michele.Levi.1+or+a+L.Rodina.2&of=hb&action_search=Search&sf=&so=d&rm=&rg=250&sc=0).
 
 Any other publications/posts/outreach can be found using the respective *additional information* links
 on the [member page](/members/).
