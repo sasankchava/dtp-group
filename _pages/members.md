@@ -15,18 +15,18 @@ author_profile: false
 
 
 ## Current Group Members
-| Name                    | Position                            |  More Information     |
-| ----------------------- |------------------------------------ |---------------------- |
-| John Joseph M. Carrasco | Group Leader, [Assoc. Prof. at Northwestern](https://www.physics.northwestern.edu/people/faculty/core-faculty/) and [Member of IPhT](https://www.ipht.fr/en/Phocea/Membres/Annuaire/index.php?uid=jcarrasc) | [http://prettyquestions.com](http://prettyquestions.com)|
-| Laurentiu Rodina        | Postdoc               | [inSPIRE](http://inspirehep.net/search?ln=en&ln=en&p=find+a+l+rodina&of=hb&action_search=Search&sf=&so=d&rm=&rg=100&sc=0)|
-|  Matthew Lewandowski | Postdoc                | [inSPIRE](http://inspirehep.net/search?p=exactauthor%3AMatthew.Lewandowski.1&sf=earliestdate)|
-| Ingrid Vazquez-Holm | Ph.D student                | |
-| Suna Zekioglu | Ph.D student                | [inSPIRE](http://inspirehep.net/author/profile/S.Zekioglu.1)|
+| Name                    | Home Institution      |  Dates                           | More Information                                          |
+| ----------------------- | --------------------- | -------------------------------- | --------------------------------------------------------  |
+| John Joseph M. Carrasco | Group Leader, [Assoc. Prof. at Northwestern](https://www.physics.northwestern.edu/people/faculty/core-faculty/) and [Member of IPhT](https://www.ipht.fr/en/Phocea/Membres/Annuaire/index.php?uid=jcarrasc) | [http://prettyquestions.com](http://prettyquestions.com) |
+| Laurentiu Rodina        | Postdoc               | [inSPIRE](http://inspirehep.net/search?ln=en&ln=en&p=find+a+l+rodina&of=hb&action_search=Search&sf=&so=d&rm=&rg=100&sc=0) |
+|  Matthew Lewandowski | Postdoc                | [inSPIRE](http://inspirehep.net/search?p=exactauthor%3AMatthew.Lewandowski.1&sf=earliestdate) |
+| Ingrid Vazquez-Holm | Ph.D student           |                                                             |
+| Suna Zekioglu | Ph.D student                | [inSPIRE](http://inspirehep.net/author/profile/S.Zekioglu.1) |
 
 
 ## Previous Group Members
-| Name                    | Position                            |  More Information     |
-| ----------------------- |------------------------------------ |---------------------- |
+| Name                    | Home Institution      |  Dates                           | More Information                                          |
+| ----------------------- | --------------------- | -------------------------------- | --------------------------------------------------------  |
 | Michele Levi            | Postdoc, IPhT Member '16-'19        | [Defying Gravity](https://sites.google.com/view/levim/home)|
 
 ## Recent IPhT-Group Visitors
