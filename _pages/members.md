@@ -15,8 +15,9 @@ author_profile: false
 
 
 ## Current Group Members
-| Name                    | Home Institution      |  Dates                           | More Information                                          |
-| ----------------------- | --------------------- | -------------------------------- | --------------------------------------------------------  |
+
+| Name                    | Home Institution      | More Information                                          |
+| ----------------------- | --------------------- | --------------------------------------------------------  |
 | John Joseph M. Carrasco | Group Leader, [Assoc. Prof. at Northwestern](https://www.physics.northwestern.edu/people/faculty/core-faculty/) and [Member of IPhT](https://www.ipht.fr/en/Phocea/Membres/Annuaire/index.php?uid=jcarrasc) | [http://prettyquestions.com](http://prettyquestions.com) |
 | Laurentiu Rodina        | Postdoc               | [inSPIRE](http://inspirehep.net/search?ln=en&ln=en&p=find+a+l+rodina&of=hb&action_search=Search&sf=&so=d&rm=&rg=100&sc=0) |
 |  Matthew Lewandowski | Postdoc                | [inSPIRE](http://inspirehep.net/search?p=exactauthor%3AMatthew.Lewandowski.1&sf=earliestdate) |
@@ -25,8 +26,9 @@ author_profile: false
 
 
 ## Previous Group Members
-| Name                    | Home Institution      |  Dates                           | More Information                                          |
-| ----------------------- | --------------------- | -------------------------------- | --------------------------------------------------------  |
+
+| Name                    | Home Institution      | More Information                                          |
+| ----------------------- | --------------------- | --------------------------------------------------------  |
 | Michele Levi            | Postdoc, IPhT Member '16-'19        | [Defying Gravity](https://sites.google.com/view/levim/home)|
 
 ## Recent IPhT-Group Visitors
