@@ -72,10 +72,8 @@ That's fine.  But there's more to being functional than just doing awesome work.
 
 ## Postdoc responsibilities:
 
-* Identify and develop research programs with ready access to the advice and assistance of the PI.
+* Identify and develop research programs (with support and assistance of the PI).
 * Attend and present at group meetings and journal clubs.
 * Define their career goals and work towards them.
 * Pursue projects and collaborations that further their own career goals.
 * Provide scientific and technical leadership within the group.
-
-
