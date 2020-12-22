@@ -21,8 +21,10 @@ author_profile: false
 | John Joseph M. Carrasco | Group Leader, [Assoc. Prof. at Northwestern](https://www.physics.northwestern.edu/people/faculty/core-faculty/) and [Member of IPhT](https://www.ipht.fr/en/Phocea/Membres/Annuaire/index.php?uid=jcarrasc) | [http://prettyquestions.com](http://prettyquestions.com) |
 | Matthew Lewandowski | Postdoc               | [inSPIRE](http://inspirehep.net/search?p=exactauthor%3AMatthew.Lewandowski.1&sf=earliestdate) |
 | Bogdan Stoica        | Postdoc               | [inSPIRE](https://inspirehep.net/authors/1274410?ui-citation-summary=true) |
-| Ingrid Vazquez-Holm | Ph.D student           |                                                             |
+| Ingrid Vazquez-Holm | Ph.D student           | [inSPIRE](http://inspirehep.net/author/profile/I.A.Vazquez.Holm.1)                                                             |
 | Suna Zekioglu | Ph.D student                | [inSPIRE](http://inspirehep.net/author/profile/S.Zekioglu.1) |
+| Nic Pavao | Ph.D student                | |
+| Aslan Seifi | Ph.D student                | |
 
 
 ## Previous Group Members
@@ -36,8 +38,8 @@ author_profile: false
 
 | Name                    | Home Institution      |  Dates                           | More Information                                          |
 | ----------------------- | --------------------- | -------------------------------- | --------------------------------------------------------  |
-|   Ömer Gürdoğan                          |  University of Southampton |  8 October - 15 October 2018 | [INSPIRE](http://inspirehep.net/search?p=exactauthor%3AO.C.Gurdogan.1&sf=earliestdate) |
-| Ingrid Vazquez-Holm       |  University of Oslo |  27 August - 31 August 2018 | [SAGEx](http://sagex.org) |
+| Ömer Gürdoğan           |  University of Southampton |  8 October - 15 October 2018 | [INSPIRE](http://inspirehep.net/search?p=exactauthor%3AO.C.Gurdogan.1&sf=earliestdate) |
+| Ingrid Vazquez-Holm     |  University of Oslo |  27 August - 31 August 2018 | [SAGEx](http://sagex.org) |
 | Zvi Bern       |  UCLA |  28 July - 29 July 2018 | [Bhaumik Institute](http://bhaumik-institute.physics.ucla.edu/)  |
 | Donal O'Connell       | University of Edinburgh  | 24 July - 27 July 2018 | [Edinburgh](https://www.ph.ed.ac.uk/people/donal-oconnell)  |
 | Henrik Johansson       | Uppsala and  NORDITA  | 16 May - 20 May 2018 | [Uppsala](http://www.physics.uu.se/research/theoretical-physics/people/henrik-johansson/) / [NORDITA](https://www.nordita.org/people/staff/index.php?u=henrik.johansson)  |
