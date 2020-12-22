@@ -14,9 +14,9 @@ read_time: true
 
 The Amplitudes and Insights group pursues broad interests in fundamental physics. We build and leverage **theoretical data** towards discovering new frameworks for:
 
-* scattering amplitudes;
+* scattering amplitudes as invariant relativistic quantum prediction;
 * formal quantum field theory and string theory;
-* effective field theories;
+* effective field theory;
 * precision cosmology;
 * gravitational astrophysics.
 
@@ -35,4 +35,4 @@ We believe that ultimately the best way to reach our personal career goals, no m
 * All papers are submitted to preprint servers.
 * All *analytic* data, when sufficiently complicated, should be presented in a readily machine parsable form linked to from relevant publications.
 * All code when released, should be released with source under *an* [open license](https://choosealicense.com).
-* Share grant/workshop/training proposals (funded or not) as soon as feasible
+* Share grant/workshop/training proposals (funded or not) when possible. 
