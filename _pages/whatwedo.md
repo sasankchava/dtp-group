@@ -22,6 +22,8 @@ The Amplitudes and Insights group pursues broad interests in fundamental physics
 
 Our passion is to understand the rules of the universe relevant to whatever scales we are considering.
 
+## A Role for Computation in Analytic Understanding 
+
 As we confront ever more subtle questions, the future of physical discovery will progress all the more rapidly through profound engagement with computation and data analysis.  This is just as true, if not more so, for us analytic theorists as our experimental and  simulation-building colleagues. We see it as part of our mission to celebrate the creative use of code for exploration, construction, verification, and analysis.
 
 ## Developmental Mission Statement
