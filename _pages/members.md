@@ -21,6 +21,7 @@ author_profile: false
 | John Joseph M. Carrasco | Group Leader, [Assoc. Prof. at Northwestern](https://www.physics.northwestern.edu/people/faculty/core-faculty/) and [Member of IPhT](https://www.ipht.fr/en/Phocea/Membres/Annuaire/index.php?uid=jcarrasc) | [http://prettyquestions.com](http://prettyquestions.com) |
 | Matthew Lewandowski | Postdoc               | [inSPIRE](http://inspirehep.net/search?p=exactauthor%3AMatthew.Lewandowski.1&sf=earliestdate) |
 | Bogdan Stoica        | Postdoc               | [inSPIRE](https://inspirehep.net/authors/1274410?ui-citation-summary=true) |
+| James Mangan         | Postdoc               | [inSPIRE](https://inspirehep.net/authors/1829937) |
 | Ingrid Vazquez-Holm | Ph.D student           | [inSPIRE](http://inspirehep.net/author/profile/I.A.Vazquez.Holm.1)                                                             |
 | Suna Zekioglu | Ph.D student                | [inSPIRE](http://inspirehep.net/author/profile/S.Zekioglu.1) |
 | Nic Pavao | Ph.D student                | |
