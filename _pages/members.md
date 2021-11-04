@@ -21,7 +21,6 @@ author_profile: false
 | John Joseph M. Carrasco | Group Leader, [Assoc. Prof. at Northwestern](https://www.physics.northwestern.edu/people/faculty/core-faculty/) and [Member of IPhT](https://www.ipht.fr/en/Phocea/Membres/Annuaire/index.php?uid=jcarrasc) | [http://prettyquestions.com](http://prettyquestions.com) |
 | Matthew Lewandowski | Postdoc               | [inSPIRE](http://inspirehep.net/search?p=exactauthor%3AMatthew.Lewandowski.1&sf=earliestdate) |
 | Bogdan Stoica        | Postdoc               | [inSPIRE](https://inspirehep.net/authors/1274410?ui-citation-summary=true) |
-| Ingrid Vazquez-Holm | Ph.D student           | [inSPIRE](http://inspirehep.net/author/profile/I.A.Vazquez.Holm.1)                                                             |
 | Suna Zekioglu | Ph.D student                | [inSPIRE](http://inspirehep.net/author/profile/S.Zekioglu.1) |
 | Nic Pavao | Ph.D student                | |
 | Aslan Seifi | Ph.D student                | |
@@ -29,10 +28,11 @@ author_profile: false
 
 ## Previous Group Members
 
-| Name                    | Home Institution      | Currently                                |
+| Name                    |  When and Where      | Currently                                |
 | ----------------------- | --------------------- | --------------------------------------------------------  |
-| Michele Levi            | Postdoc, IPhT Member '16-'19        | [Asst. Prof. NBI](https://www.nbi.ku.dk/english/staff/?pure=en/persons/654163) |
-| Laurentiu Rodina        | Postdoc, IPhT Member '17-'20         | [inSPIRE](https://inspirehep.net/authors/1607940?ui-citation-summary=true) |
+| Ingrid Vazquez-Holm | Ph.D student, IPhT '19-'21           |  [Postdoc Uppsala University](http://inspirehep.net/author/profile/I.A.Vazquez.Holm.1)                                                             |
+| Laurentiu Rodina        | Postdoc, IPhT Member '17-'20         | [Postdoc NTU](https://inspirehep.net/authors/1607940?ui-citation-summary=true) |
+| Michele Levi            | Postdoc, IPhT Member '16-'19        | [STFC Rutherford Fellow, QMUL](https://www.qmul.ac.uk/maths/profiles/michelelevi.html) |
 
 ## Recent IPhT-Group Visitors
 
