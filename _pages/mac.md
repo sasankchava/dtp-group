@@ -1,4 +1,3 @@
-
 ---
 permalink: /mac/
 layout: splash
