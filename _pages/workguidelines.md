@@ -34,7 +34,7 @@ That's fine.  But there's more to being functional than just doing awesome work.
 # Responsibilities of group members
 
 ## All scientific group members
-* Uphold [group's code of conduct](/code_of_conduct/)
+* Uphold [group's code of conduct](/conduct/)
 * Take care of yourself[^care].
 * Invest in research you *care* about.  If you aren't passionate about what you're looking at, you *should* be looking at something else.
 * Support each other.

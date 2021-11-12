@@ -21,7 +21,7 @@ Very specifically, initial content and organization strongly influenced by:
         * How easy it is to serve personal static sites off of GitHub. Source for the DTP Group site is  [here](https://github.com/dtp-group/dtp-group/tree/gh-pages).
         * The [minimal mistakes Jekyll theme](https://mademistakes.com/work/minimal-mistakes-jekyll-theme/) is pretty convenient and configurable.
 * Round 1: [C. Titus Brown's DIB Lab page](http://ivory.idyll.org/lab/). Especially:
-    * [Code of Conduct](/code_of_conduct/) -- everyone should feel safe to get things done.
+    * [Code of Conduct](/conduct/) -- everyone should feel safe to get things done.
     * [Work Guidelines](/workguidelines/) -- coordinating expectations are great. A little iffy on the idea of mandatory weekly summaries, but I'm going to give it a shot:
         *  Future PI's, for better or for worse, definitely need to get used to reporting on how they're spending their time.  My last 3 years at Stanford I was co-leader on a grant with Renata Kallosh and we had periodic quarterly reports. It absolutely helped to regularly jot down what had been happening.
         * As I start being *really* responsible for jr folks' careers I'm more sensitive to the balance of keeping up with how they're doing without breathing down their necks. Definitely aware that a lot of meeting time can be spent on status updates instead of, you know, paradigm-shattering science.
