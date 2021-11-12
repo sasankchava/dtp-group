@@ -20,5 +20,6 @@ You'll need to associate your Northwestern NetID with my allocation to use quest
 * [Logging into QUEST](https://kb.northwestern.edu/70705)
 * [Submitting a Job](https://kb.northwestern.edu/submitting-a-job-on-quest)
 * [Examples of Jobs on Quest](https://kb.northwestern.edu/page.php?id=70719)
+* [Environmental modules](https://kb.northwestern.edu/page.php?id=70718)  <-- this is how you access e.g. mathematica. 
 
 
