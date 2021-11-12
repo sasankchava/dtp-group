@@ -1,7 +1,7 @@
 ---
 permalink: /cluster/
 layout: splash
-title: "Tips and tricks for the cluster"
+title: "Tips and tricks for the QUEST cluster"
 header:
   overlay_color: "#5e616c"
   overlay_image: sixPtRelations.jpg
@@ -10,30 +10,15 @@ header:
 author_profile: false
 ---
 
-# Setting up dropbox
+## Getting initially setup
+You'll need to associate your Northwestern NetID with my allocation to use quest:
+	* Check the slack channel "quest" to find the current allocation id it will be pinned at the top.
+	* To get your userid turned on at QUEST and associated with my resources, you'll need to fill out this [form](https://app.smartsheet.com/b/form/797775d810274db5889b5199c4260328).
 
-Follow the instructions [here](https://www.dropbox.com/install-linux).  i.e. you will want to:
-   1. execute `` cd ~ && wget -O - "https://www.dropbox.com/download?plat=lnx.x86_64" | tar xzf ``
-   2. execute ``~ /.dropbox-dist/dropboxd ``
-   3. Download the python script at put it somewhere handy
+## Some helpful introductory guides
+	* Introduction to Quest [Video](https://www.youtube.com/watch?v=rIFbHt_2g4s)
+	* [Logging into QUEST](https://kb.northwestern.edu/70705)
+	* [Submitting a Job](https://kb.northwestern.edu/submitting-a-job-on-quest)
+	* [Examples of Jobs on Quest](https://kb.northwestern.edu/page.php?id=70719)
 
-# Getting to qft from home.
 
-  1. First login to scylla.extra.cea.fr or charybde.extra.cea.fr.
-  2. Goto headnode (qft1)
-  3. If you need an intereactive shell use ``qsub -I`` otherwise submit batch jobs.
-
-# Queuing system
-
-  1. We use Torque / Maui .
-  2. Documentation  [here](http://docs.adaptivecomputing.com/torque/6-1-1/adminGuide/help.htm#topics/torque/2-jobs/submittingManagingJobs.htm%3FTocPath%3D3%2520Submitting%2520and%2520Managing%2520Jobs%7C_____0).
-
-# Screen
-
-  1. charybde and scylla are literally restarted once a week. (??)
-  2. Learn to use screen.
-      a.  man page: [here](https://www.gnu.org/software/screen/manual/screen.html#Concept-Index)
-      b.  some tutorials:   [here](https://www.rackaid.com/blog/linux-screen-tutorial-and-how-to/) and [here](https://www.mattcutts.com/blog/a-quick-tutorial-on-screen/)
-
-# ssh-keygen
-  * Learn how to use [ssh](https://www.digitalocean.com/community/tutorials/ssh-essentials-working-with-ssh-servers-clients-and-keys).
