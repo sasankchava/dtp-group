@@ -35,7 +35,7 @@ author_profile: false
 | Laurentiu Rodina        | Postdoc, IPhT Member '17-'20         | [Postdoc NTU](https://inspirehep.net/authors/1607940?ui-citation-summary=true) |
 | Michele Levi            | Postdoc, IPhT Member '16-'19        | [STFC Rutherford Fellow, Oxford University](https://www.maths.ox.ac.uk/people/michele.levi) |
 
-## Recent IPhT-Group Visitors
+## Recent NU-Group Visitors
 
 | Name                    | Home Institution      |  Dates                           | More Information                                          |
 | ----------------------- | --------------------- | -------------------------------- | --------------------------------------------------------  |
@@ -44,6 +44,12 @@ author_profile: false
 | Alex Edison    |  Uppsala |  2 May - 6 May 2022 | [iNSPIRE](https://inspirehep.net/authors/1648378?ui-citation-summary=true)  |
 | Radu Roiban    |  PSU |  22 July - 2 Aug 2021 | [Bhaumik Institute](http://bhaumik-institute.physics.ucla.edu/)  |
 | Zvi Bern       |  UCLA |  22 July - 29 July 2021 | [Bhaumik Institute](http://bhaumik-institute.physics.ucla.edu/)  |
+
+
+## Previous IPhT-Group Visitors
+
+| Name                    | Home Institution      |  Dates                           | More Information                                          |
+| ----------------------- | --------------------- | -------------------------------- | --------------------------------------------------------  |
 | Ömer Gürdoğan           |  University of Southampton |  8 October - 15 October 2018 | [iNSPIRE](http://inspirehep.net/search?p=exactauthor%3AO.C.Gurdogan.1&sf=earliestdate) |
 | Ingrid Vazquez-Holm     |  University of Oslo |  27 August - 31 August 2018 | [SAGEx](http://sagex.org) |
 | Zvi Bern       |  UCLA |  28 July - 29 July 2018 | [Bhaumik Institute](http://bhaumik-institute.physics.ucla.edu/)  |
