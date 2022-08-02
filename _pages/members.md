@@ -33,13 +33,18 @@ author_profile: false
 | ----------------------- | --------------------- | --------------------------------------------------------  |
 | Ingrid Vazquez-Holm | Ph.D student, IPhT '19-'21           |  [Postdoc Uppsala University](http://inspirehep.net/author/profile/I.A.Vazquez.Holm.1)                                                             |
 | Laurentiu Rodina        | Postdoc, IPhT Member '17-'20         | [Postdoc NTU](https://inspirehep.net/authors/1607940?ui-citation-summary=true) |
-| Michele Levi            | Postdoc, IPhT Member '16-'19        | [STFC Rutherford Fellow, QMUL](https://www.qmul.ac.uk/maths/profiles/michelelevi.html) |
+| Michele Levi            | Postdoc, IPhT Member '16-'19        | [STFC Rutherford Fellow, Oxford University](https://www.maths.ox.ac.uk/people/michele.levi) |
 
 ## Recent IPhT-Group Visitors
 
 | Name                    | Home Institution      |  Dates                           | More Information                                          |
 | ----------------------- | --------------------- | -------------------------------- | --------------------------------------------------------  |
-| Ömer Gürdoğan           |  University of Southampton |  8 October - 15 October 2018 | [INSPIRE](http://inspirehep.net/search?p=exactauthor%3AO.C.Gurdogan.1&sf=earliestdate) |
+| Nabha Shah    |  Caltech |  9 May - 10 May 2022 | [iNSPIRE](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=a%20N.Shah.1&ui-citation-summary=true)  |
+| Lance Dixon    |  SLAC |  4 May - 11 May 2022 | [SLAC](https://www.slac.stanford.edu/~lance/)  |
+| Alex Edison    |  Uppsala |  2 May - 6 May 2022 | [iNSPIRE](https://inspirehep.net/authors/1648378?ui-citation-summary=true)  |
+| Radu Roiban    |  PSU |  22 July - 2 Aug 2021 | [Bhaumik Institute](http://bhaumik-institute.physics.ucla.edu/)  |
+| Zvi Bern       |  UCLA |  22 July - 29 July 2021 | [Bhaumik Institute](http://bhaumik-institute.physics.ucla.edu/)  |
+| Ömer Gürdoğan           |  University of Southampton |  8 October - 15 October 2018 | [iNSPIRE](http://inspirehep.net/search?p=exactauthor%3AO.C.Gurdogan.1&sf=earliestdate) |
 | Ingrid Vazquez-Holm     |  University of Oslo |  27 August - 31 August 2018 | [SAGEx](http://sagex.org) |
 | Zvi Bern       |  UCLA |  28 July - 29 July 2018 | [Bhaumik Institute](http://bhaumik-institute.physics.ucla.edu/)  |
 | Donal O'Connell       | University of Edinburgh  | 24 July - 27 July 2018 | [Edinburgh](https://www.ph.ed.ac.uk/people/donal-oconnell)  |

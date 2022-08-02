@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /
-title: "Welcome to the Northwestern University / Paris-Saclay Group for Amplitudes and Insights"
+title: "Welcome to the Northwestern University Group for Amplitudes and Insights"
 header:
   overlay_color: "#5e616c"
   overlay_image: jjTheoryGryInf.jpg
@@ -25,7 +25,7 @@ The goal is deep physical insight, with a joy in developing and leveraging --- f
 
 Like players of [*advanced chess*](https://en.wikipedia.org/wiki/Advanced_Chess), group members are encouraged to invoke algorithms and automation to aid in tactically navigating the diverging tree of candidate moves.
 
-The group now maintains an international presence. In the USA the group is located along the lake just north of Chicago in the [Department of Physics and Astronomy](https://www.physics.northwestern.edu) of the Weinberg College of Arts and Sciences of [Northwestern University](https://www.northwestern.edu).  In France, the group is hosted on the [Saclay plateau](https://en.wikipedia.org/wiki/Paris-Saclay), at the [Institute for Theoretical Physics (IPhT)](http://ipht.cea.fr/en/), [CEA-Saclay](http://www-centre-saclay.cea.fr/en) and [University of Paris-Saclay](https://www.universite-paris-saclay.fr/en).
+The group is located along the lake just north of Chicago in the [Department of Physics and Astronomy](https://www.physics.northwestern.edu) of the Weinberg College of Arts and Sciences of [Northwestern University](https://www.northwestern.edu). 
 
   The group is run by [Prof. John Joseph M. Carrasco](http://prettyquestions.com). You can find most of the group's publications [here](/publications/). You can learn more about individual group members [here](/members/).
 
@@ -40,21 +40,9 @@ The group now maintains an international presence. In the USA the group is locat
   Evanston, IL 60208-3112
 ```
 
-  The Saclay mailing address is:
-
-```
-  c/o J J M Carrasco
-  Institut de Physique Théorique
-  Orme des Merisiers batiment 774
-  Point courrier 136
-  CEA/Saclay
-  F-91191 Gif-sur-Yvette Cedex
-  FRANCE
-```
-
 -----------------
 
-Funded in part by the [European Union's Horizon 2020 Framework Program](https://ec.europa.eu/programmes/horizon2020/) via the 2014-ERC-stg: [Strategic Predictions for Quantum Field Theories (preQFT)](/funding/).
+The group was initially funded in part by the [European Union's Horizon 2020 Framework Program](https://ec.europa.eu/programmes/horizon2020/) via the 2014-ERC-stg: [Strategic Predictions for Quantum Field Theories (preQFT)](/funding/). Since 2020 the group has been funded through the [Alfred P. Sloan Foundation](https://sloan.org/fellowships/), the [United States Department of Energy](https://science.osti.gov), an endowment by the AT \& T Corporation, and the Weinberg College of Northwestern University.
 
 | <img src="/images/LOGO-ERC.jpg" alt="ERC Logo"> | <img src="/images/eu_flag.jpg" alt="eu_flag"> |
 
