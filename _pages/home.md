@@ -42,7 +42,7 @@ The group is located along the lake just north of Chicago in the [Department of 
 
 -----------------
 
-The group was initially funded in part by the [European Union's Horizon 2020 Framework Program](https://ec.europa.eu/programmes/horizon2020/) via the 2014-ERC-stg: [Strategic Predictions for Quantum Field Theories (preQFT)](/funding/). Since 2020 the group has been funded through the [Alfred P. Sloan Foundation](https://sloan.org/fellowships/), the [United States Department of Energy](https://science.osti.gov), an endowment by the AT \& T Corporation, and the Weinberg College of Northwestern University.
+The group was initially funded in part by the [European Union's Horizon 2020 Framework Program](https://ec.europa.eu/programmes/horizon2020/) via the 2014-ERC-stg: [Strategic Predictions for Quantum Field Theories (preQFT)](/funding/). Since 2020 the group has been funded through the [Alfred P. Sloan Foundation](https://sloan.org/fellowships/), the [United States Department of Energy](https://science.osti.gov), an endowment by the AT & T Corporation, and the Weinberg College of Arts and Sciences, Northwestern University.
 
 | <img src="/images/LOGO-ERC.jpg" alt="ERC Logo"> | <img src="/images/eu_flag.jpg" alt="eu_flag"> |
 
