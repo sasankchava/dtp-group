@@ -27,10 +27,13 @@ Like players of [*advanced chess*](https://en.wikipedia.org/wiki/Advanced_Chess)
 
 The group is located along the lake just north of Chicago in the [Department of Physics and Astronomy](https://www.physics.northwestern.edu) of the Weinberg College of Arts and Sciences of [Northwestern University](https://www.northwestern.edu). 
 
-  The group is run by [Prof. John Joseph M. Carrasco](http://prettyquestions.com). You can find most of the group's publications [here](/publications/). You can learn more about individual group members [here](/members/).
+The group is run by [Prof. John Joseph M. Carrasco](http://prettyquestions.com). You can find most of the group's publications [here](/publications/). You can learn more about individual group members [here](/members/).
 
+For people who are interested in joining the group as a new Ph.D. student, please go to our [departmental website](https://physics.northwestern.edu/graduate/doctoral-program/admissions/index.html) and follow the instructions to apply. It makes sense to mention Professor Carrasco in the Statement of Purpose that you submit as part of your application materials.
 
- The NU mailing address is:
+Any open postdoctoral positions are posted on [amplitudes.org](http://amplitudes.org/jobs/).
+
+The NU mailing address is:
  
 ```
   c/o J J M Carrasco
