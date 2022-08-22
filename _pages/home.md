@@ -29,9 +29,10 @@ The group is located along the lake just north of Chicago in the [Department of 
 
 The group is run by [Prof. John Joseph M. Carrasco](http://prettyquestions.com). You can find most of the group's publications [here](/publications/). You can learn more about individual group members [here](/members/).
 
+Any open postdoctoral positions are posted on [amplitudes.org](http://amplitudes.org/jobs/).
+
 For people who are interested in joining the group as a new Ph.D. student, please go to our [departmental website](https://physics.northwestern.edu/graduate/doctoral-program/admissions/index.html) and follow the instructions to apply. It makes sense to mention Professor Carrasco in the Statement of Purpose that you submit as part of your application materials.
 
-Any open postdoctoral positions are posted on [amplitudes.org](http://amplitudes.org/jobs/).
 
 The NU mailing address is:
  
