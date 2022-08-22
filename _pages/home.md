@@ -31,7 +31,7 @@ The group is run by [Prof. John Joseph M. Carrasco](http://prettyquestions.com).
 
 Any open postdoctoral positions are posted on [amplitudes.org](http://amplitudes.org/jobs/).
 
-For people who are interested in joining the group as a new Ph.D. student, please go to our [departmental website](https://physics.northwestern.edu/graduate/doctoral-program/admissions/index.html) and follow the instructions to apply. It makes sense to mention Professor Carrasco in the Statement of Purpose that you submit as part of your application materials.
+For people who are interested in joining the group as a new Ph.D. student, please go to our [departmental website](https://physics.northwestern.edu/graduate/doctoral-program/admissions/index.html), follow the instructions to apply, and mention interest in working with Professor Carrasco. 
 
 
 The NU mailing address is:
