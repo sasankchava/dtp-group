@@ -22,6 +22,7 @@ author_profile: false
 | Matthew Lewandowski | Postdoc               | [inSPIRE](http://inspirehep.net/search?p=exactauthor%3AMatthew.Lewandowski.1&sf=earliestdate) |
 | Bogdan Stoica        | Postdoc               | [inSPIRE](https://inspirehep.net/authors/1274410?ui-citation-summary=true) |
 | James Mangan         | Postdoc               | [inSPIRE](https://inspirehep.net/authors/1829937) |
+| Alex Edison          | Postdoc               | [inSPIRE](https://inspirehep.net/authors/1648378) |
 | Suna Zekioglu | Ph.D student                | [inSPIRE](http://inspirehep.net/author/profile/S.Zekioglu.1) |
 | Nic Pavao | Ph.D student                | |
 | Aslan Seifi | Ph.D student                | |
