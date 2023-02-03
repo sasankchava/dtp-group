@@ -23,7 +23,7 @@ author_profile: false
 | James Mangan         | Postdoc               | [inSPIRE](https://inspirehep.net/authors/1829937) |
 | Alex Edison          | Postdoc               | [inSPIRE](https://inspirehep.net/authors/1648378) |
 | Suna Zekioglu | Ph.D student                | [inSPIRE](http://inspirehep.net/author/profile/S.Zekioglu.1) |
-| Nic Pavao | Ph.D student                | [inSPIRE](https://inspirehep.net/authors/2047364?ui-citation-summary=true)    [Website](https://nicpavao.com/) |
+| Nic Pavao | Ph.D student                | [inSPIRE](https://inspirehep.net/authors/2047364?ui-citation-summary=true)  and  [Personal Website](https://nicpavao.com/) |
 | Aslan Seifi | Ph.D student                | |
 
 

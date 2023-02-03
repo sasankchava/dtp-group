@@ -29,11 +29,8 @@ Members or visitors asked to stop any harassing behavior are expected to comply 
 
 If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact [JJ Carrasco](mailto:john-joseph.carrasco@ipht.fr) immediately.Note: All faculty, postdocs, and staff at Northwestern University are *Manditory Reporters* -- they must contact the Office of Equity if they learn about any harrasment.  If for whatever reasons you would not feel comfortable coming to JJ,  [Juna Kollmeier](https://carnegiescience.edu/scientist/juna-kollmeir) (jak at cita.utoronto.ca ), has volunteered to be a safe informal point of contact;  she works for neither JJ nor Northwestern, and has agreed to help mediate if ever necessary. For official concerns involving harrasment, group members must see the office of equity of either Northwestern University. If you do not know whether something constitutes harrasment there is an Ombudsperson for Northwestern you can contact: [Office of Ombudsperson](https://www.northwestern.edu/ombuds/index.html) which is confidential and not a manditory reporter.  
 
-More broadly -- the entire spirit of the Amplitudes and Insight group is to instantiate a healthy and conductive work environment.  Anything hostile to that work environment is not ok -- absolutely feel free to insist of being free of workplace hostility in any form
 
-More broadly -- the entire spirit of the Amplitudes and Insight group is to instantiate a healthy and conductive work environment.  Anything hostile to that work environment is not ok -- absolutely feel free to insist of being free of workplace hostility in any form.  The group as a whole is commited to this as is the department of physics and astronomy.
-
-Please see the community standards linked to in the [Department of Physics and Astronomy](https://physics.northwestern.edu/equity-and-inclusion/community-standards.html).
+More broadly -- the entire spirit of the Amplitudes and Insight group is to instantiate a healthy and conductive work environment.  Anything hostile to that work environment is not ok -- absolutely feel free to insist of being free of workplace hostility in any form.  The group as a whole is commited to this as has the Department of Physics and Astronomy. Please see the community standards ascribed to by the [Department of Physics and Astronomy](https://physics.northwestern.edu/equity-and-inclusion/community-standards.html).
 
 
 We expect members to follow these guidelines at any group-related event.
