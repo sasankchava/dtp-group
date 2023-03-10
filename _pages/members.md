@@ -18,14 +18,14 @@ author_profile: false
 
 | Name                    | Home Institution      | More Information                                          |
 | ----------------------- | --------------------- | --------------------------------------------------------  |
-| John Joseph M. Carrasco | Group Leader, [Assoc. Prof. at Northwestern](https://www.physics.northwestern.edu/people/faculty/core-faculty/) and [Member of IPhT](https://www.ipht.fr/en/Phocea/Membres/Annuaire/index.php?uid=jcarrasc) | [http://prettyquestions.com](http://prettyquestions.com) |
+| John Joseph M. Carrasco | Group Leader, [Assoc. Prof. at Northwestern](https://www.physics.northwestern.edu/people/faculty/core-faculty/) and [Affiliate Member of IPhT](https://www.ipht.fr/en/Phocea/Membres/Annuaire/index.php?uid=jcarrasc) | [http://prettyquestions.com](http://prettyquestions.com) |
 | Bogdan Stoica        | Postdoc               | [inSPIRE](https://inspirehep.net/authors/1274410?ui-citation-summary=true) |
 | James Mangan         | Postdoc               | [inSPIRE](https://inspirehep.net/authors/1829937) |
 | Alex Edison          | Postdoc               | [inSPIRE](https://inspirehep.net/authors/1648378) |
 | Suna Zekioglu | Ph.D student                | [inSPIRE](http://inspirehep.net/author/profile/S.Zekioglu.1) |
 | Nic Pavao | Ph.D student                | [inSPIRE](https://inspirehep.net/authors/2047364?ui-citation-summary=true)  and  [Personal Website](https://nicpavao.com/) |
 | Aslan Seifi | Ph.D student                | [inSPIRE](https://inspirehep.net/authors/2637267?ui-citation-summary=true)|
-| Kezhu Guo | Affiliate Ph.D student [Member of the Velasco Group](https://physics.northwestern.edu/people/faculty/core-faculty/mayda-velasco.html)               | |
+| Kezhu Guo | Affiliate Ph.D student, as [Member of the Velasco Group](https://physics.northwestern.edu/people/faculty/core-faculty/mayda-velasco.html)               | |
 | Nia Robles | Undergraduate student ||
 
 
