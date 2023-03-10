@@ -24,15 +24,17 @@ author_profile: false
 | Alex Edison          | Postdoc               | [inSPIRE](https://inspirehep.net/authors/1648378) |
 | Suna Zekioglu | Ph.D student                | [inSPIRE](http://inspirehep.net/author/profile/S.Zekioglu.1) |
 | Nic Pavao | Ph.D student                | [inSPIRE](https://inspirehep.net/authors/2047364?ui-citation-summary=true)  and  [Personal Website](https://nicpavao.com/) |
-| Aslan Seifi | Ph.D student                | |
+| Aslan Seifi | Ph.D student                | [inSPIRE](https://inspirehep.net/authors/2637267?ui-citation-summary=true)|
+| Kezhu Guo | Affiliate Ph.D student [Member of the Velasco Group](https://physics.northwestern.edu/people/faculty/core-faculty/mayda-velasco.html)               | |
+| Nia Robles | Undergraduate student ||
 
 
 ## Previous Group Members
 
 | Name                    |  When and Where      | Currently                                |
 | ----------------------- | --------------------- | --------------------------------------------------------  |
+| Matthew Lewandowski | Postdoc, NU Member '19-'22               | [Postdoc ETH-Zurich](http://inspirehep.net/search?p=exactauthor%3AMatthew.Lewandowski.1&sf=earliestdate) |
 | Ingrid Vazquez-Holm | Ph.D student, IPhT '19-'21           |  [Postdoc Uppsala University](http://inspirehep.net/author/profile/I.A.Vazquez.Holm.1)                                                             |
-| Matthew Lewandowski | Postdoc, IPhT Member '19-'22               | [inSPIRE](http://inspirehep.net/search?p=exactauthor%3AMatthew.Lewandowski.1&sf=earliestdate) |
 | Laurentiu Rodina        | Postdoc, IPhT Member '17-'20         | [Postdoc NTU](https://inspirehep.net/authors/1607940?ui-citation-summary=true) |
 | Michele Levi            | Postdoc, IPhT Member '16-'19        | [STFC Rutherford Fellow, Oxford University](https://www.maths.ox.ac.uk/people/michele.levi) |
 
@@ -40,6 +42,9 @@ author_profile: false
 
 | Name                    | Home Institution      |  Dates                           | More Information                                          |
 | ----------------------- | --------------------- | -------------------------------- | --------------------------------------------------------  |
+| Vi Hong    |  UCB |  9 March - 10 March 2023 | |
+| Oliver Schlotterer |  Uppsala |  4 March - 12 March 2023 | [Inspire](https://inspirehep.net/authors/1064892?ui-citation-summary=true) |
+| Chia-Hsien Shen |  UCSD |  27 February - 28 February 2023 | [Inspire](https://inspirehep.net/authors/1071212?ui-citation-summary=true) |
 | Nabha Shah    |  Caltech |  9 May - 10 May 2022 | [iNSPIRE](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=a%20N.Shah.1&ui-citation-summary=true)  |
 | Lance Dixon    |  SLAC |  4 May - 11 May 2022 | [SLAC](https://www.slac.stanford.edu/~lance/)  |
 | Alex Edison    |  Uppsala |  2 May - 6 May 2022 | [iNSPIRE](https://inspirehep.net/authors/1648378?ui-citation-summary=true)  |
