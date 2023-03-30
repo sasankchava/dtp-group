@@ -238,23 +238,14 @@ timezone: France/Paris # http://en.wikipedia.org/wiki/List_of_tz_database_time_z
 
 
 # Plugins
-#
-#
-#gems:
-plugins:
+gems:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
   - jemoji
-  - jekyll-include-cache
 
-#
-# 
-#
-#
-#
- mimic GitHub Pages with --safe
+# mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
   - jekyll-sitemap
@@ -298,4 +289,3 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
