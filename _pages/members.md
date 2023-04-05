@@ -42,10 +42,10 @@ author_profile: false
 
 | Name                    | Home Institution      |  Dates                           | More Information                                          |
 | ----------------------- | --------------------- | -------------------------------- | --------------------------------------------------------  |
-| Via Nielson    | UM-Ann Arbor |  7 March - 8 April 2023 | [Inspire](https://inspirehep.net/authors/1950438?ui-citation-summary=true) |
+| Via Nielson    | UM-Ann Arbor |  7 March - 8 April 2023 | [iNSPIRE](https://inspirehep.net/authors/1950438?ui-citation-summary=true) |
 | Vi Hong    |  UCB |  9 March - 10 March 2023 | |
-| Oliver Schlotterer |  Uppsala |  4 March - 12 March 2023 | [Inspire](https://inspirehep.net/authors/1064892?ui-citation-summary=true) |
-| Chia-Hsien Shen |  UCSD |  27 February - 28 February 2023 | [Inspire](https://inspirehep.net/authors/1071212?ui-citation-summary=true) |
+| Oliver Schlotterer |  Uppsala |  4 March - 12 March 2023 | [iNSPIRE](https://inspirehep.net/authors/1064892?ui-citation-summary=true) |
+| Chia-Hsien Shen |  UCSD |  27 February - 28 February 2023 | [iNSPIRE](https://inspirehep.net/authors/1071212?ui-citation-summary=true) |
 | Nabha Shah    |  Caltech |  9 May - 10 May 2022 | [iNSPIRE](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=a%20N.Shah.1&ui-citation-summary=true)  |
 | Lance Dixon    |  SLAC |  4 May - 11 May 2022 | [SLAC](https://www.slac.stanford.edu/~lance/)  |
 | Alex Edison    |  Uppsala |  2 May - 6 May 2022 | [iNSPIRE](https://inspirehep.net/authors/1648378?ui-citation-summary=true)  |
