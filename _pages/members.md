@@ -38,7 +38,7 @@ author_profile: false
 | Laurentiu Rodina        | Postdoc, IPhT Member '17-'20         | [Postdoc NTU](https://inspirehep.net/authors/1607940?ui-citation-summary=true) |
 | Michele Levi            | Postdoc, IPhT Member '16-'19        | [STFC Rutherford Fellow, Oxford University](https://www.maths.ox.ac.uk/people/michele.levi) |
 
-## Recent NU-Group Visitors
+## Recent/Upcoming NU-Group Visitors
 
 | Name                    | Home Institution      |  Dates                           | More Information                                          |
 | ----------------------- | --------------------- | -------------------------------- | --------------------------------------------------------  |
