@@ -42,6 +42,7 @@ author_profile: false
 
 | Name                    | Home Institution      |  Dates                           | More Information                                          |
 | ----------------------- | --------------------- | -------------------------------- | --------------------------------------------------------  |
+| Via Nielson    | UM-Ann Arbor |  7 March - 8 April 2023 | [Inspire](https://inspirehep.net/authors/1950438?ui-citation-summary=true) |
 | Vi Hong    |  UCB |  9 March - 10 March 2023 | |
 | Oliver Schlotterer |  Uppsala |  4 March - 12 March 2023 | [Inspire](https://inspirehep.net/authors/1064892?ui-citation-summary=true) |
 | Chia-Hsien Shen |  UCSD |  27 February - 28 February 2023 | [Inspire](https://inspirehep.net/authors/1071212?ui-citation-summary=true) |
