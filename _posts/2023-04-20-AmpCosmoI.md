@@ -18,9 +18,9 @@ pinned: true
 
 ## Theme
 
-Recent progress in the cosmological bootstrap have demonstrated that amplitudes themes and ideas might fruitfully engage  with inflationary physics. The workshop series brings together experts from scattering amplitudes, and cosmology to develop these novel connections.
+Recent progress in the cosmological bootstrap have demonstrated that amplitudes themes and ideas might fruitfully engage  with inflationary physics. The workshop series brings together experts from cosmology and scattering amplitudes to develop these novel connections.
 
-This first workshop in the series is primarily pedagogic: to teach us flat-space momentum space amplitudes folks how to think about flat-space correlators and extensions to dS.
+This first workshop in the series is primarily pedagogic: to teach us flat-space momentum focused amplitudes folks how to think about flat-space correlators and extensions to dS.
 
 -----------------
 
@@ -30,6 +30,9 @@ Invited speakers:
  * Akhil Premkumar, University of Chicago
 
 -----------------
+
+Room: Tech F210 (* May possibly evolve, please check back here.*)
+
 Schedule: 
 
 11:00 TBD
@@ -43,6 +46,7 @@ Schedule:
 15:00 TBD
 
 
+-----------------
 
- Local Organizers:
+ Local Organizer:
   John Joseph Carrasco
