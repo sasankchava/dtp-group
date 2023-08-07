@@ -31,20 +31,7 @@ Invited speakers:
 
 -----------------
 
-Room: Tech F210 (* May possibly evolve, please check back here.*)
-
-Schedule: 
-
-11:00 TBD
-
-12:00 TBD
-
-13:00 TBD
-
-14:00 TBD
-
-15:00 TBD
-
+Room: Tech F210, from 11:00 AM - 3:00 PM. 
 
 -----------------
 

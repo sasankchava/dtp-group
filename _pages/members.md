@@ -18,8 +18,7 @@ author_profile: false
 
 | Name                    | Home Institution      | More Information                                          |
 | ----------------------- | --------------------- | --------------------------------------------------------  |
-| John Joseph M. Carrasco | Group Leader, [Assoc. Prof. at Northwestern](https://www.physics.northwestern.edu/people/faculty/core-faculty/) and [Affiliate Member of IPhT](https://www.ipht.fr/en/Phocea/Membres/Annuaire/index.php?uid=jcarrasc) | [http://prettyquestions.com](http://prettyquestions.com) |
-| Bogdan Stoica        | Postdoc               | [inSPIRE](https://inspirehep.net/authors/1274410?ui-citation-summary=true) |
+| John Joseph M. Carrasco | Director of A&I, [Assoc. Prof. at Northwestern](https://www.physics.northwestern.edu/people/faculty/core-faculty/) and [Affiliate Member of IPhT](https://www.ipht.fr/en/Phocea/Membres/Annuaire/index.php?uid=jcarrasc) | [http://prettyquestions.com](http://prettyquestions.com) |
 | James Mangan         | Postdoc               | [inSPIRE](https://inspirehep.net/authors/1829937) |
 | Alex Edison          | Postdoc               | [inSPIRE](https://inspirehep.net/authors/1648378) |
 | Suna Zekioglu | Ph.D student                | [inSPIRE](http://inspirehep.net/author/profile/S.Zekioglu.1) |
@@ -33,6 +32,7 @@ author_profile: false
 
 | Name                    |  When and Where      | Currently                                |
 | ----------------------- | --------------------- | --------------------------------------------------------  |
+| Bogdan Stoica        | Postdoc, NU Member '20-'23  | [inSPIRE](https://inspirehep.net/authors/1274410?ui-citation-summary=true) |
 | Matthew Lewandowski | Postdoc, NU Member '19-'22               | [Postdoc ETH-Zurich](http://inspirehep.net/search?p=exactauthor%3AMatthew.Lewandowski.1&sf=earliestdate) |
 | Ingrid Vazquez-Holm | Ph.D student, IPhT '19-'21           |  [Postdoc Uppsala University](http://inspirehep.net/author/profile/I.A.Vazquez.Holm.1)                                                             |
 | Laurentiu Rodina        | Postdoc, IPhT Member '17-'20         | [Postdoc NTU](https://inspirehep.net/authors/1607940?ui-citation-summary=true) |
@@ -42,6 +42,9 @@ author_profile: false
 
 | Name                    | Home Institution      |  Dates                           | More Information                                          |
 | ----------------------- | --------------------- | -------------------------------- | --------------------------------------------------------  |
+| Austin Joyce | University of Chicago | 28 April 2023 | [inSPIRE](https://inspirehep.net/authors/1078196?ui-citation-summary=true) |
+| Hayden Lee | University of Chicago | 28 April 2023 | [inSPIRE](https://inspirehep.net/authors/1351398?ui-citation-summary=true) |
+| Akhil Premkumar | University of Chicago | 28 April 2023 | [inSPIRE](https://inspirehep.net/authors/1776876?ui-citation-summary=true) |
 | Via Nielson    | UofM-Ann Arbor |  7 April - 8 April 2023 | [iNSPIRE](https://inspirehep.net/authors/1950438?ui-citation-summary=true) |
 | Christiano Beach    |  UofM-Ann Arbor | 7 April - 8 April 2023 || 
 | Vi Hong    |  UCB |  9 March - 10 March 2023 | |
