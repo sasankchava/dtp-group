@@ -18,7 +18,7 @@ author_profile: false
 
 | Name                    | Home Institution      | More Information                                          |
 | ----------------------- | --------------------- | --------------------------------------------------------  |
-| John Joseph M. Carrasco | Director and [Assoc. Prof. at Northwestern](https://www.physics.northwestern.edu/people/faculty/core-faculty/) | [http://prettyquestions.com](http://prettyquestions.com) |
+| John Joseph M. Carrasco | [Assoc. Prof. at Northwestern](https://www.physics.northwestern.edu/people/faculty/core-faculty/) | [http://prettyquestions.com](http://prettyquestions.com) |
 | James Mangan         | Postdoc               | [inSPIRE](https://inspirehep.net/authors/1829937) |
 | Alex Edison          | Postdoc               | [inSPIRE](https://inspirehep.net/authors/1648378) |
 | Suna Zekioglu | Ph.D student                | [inSPIRE](http://inspirehep.net/author/profile/S.Zekioglu.1) |
