@@ -27,6 +27,7 @@ author_profile: false
 | Aslan Seifi | Ph.D student                | [inSPIRE](https://inspirehep.net/authors/2637267?ui-citation-summary=true)|
 | Kezhu Guo | Affiliate Ph.D student, as [Member of the Velasco Group](https://physics.northwestern.edu/people/faculty/core-faculty/mayda-velasco.html)               | |
 | Cong Shen | Ph.D student                | [inSPIRE](https://inspirehep.net/authors/1945377?ui-citation-summary=true)|
+| Sai Sasank Chava | Ph.D student         | [inSPIRE](https://inspirehep.net/authors/2776660)|
 | Nia Robles | Undergraduate student ||
 
 
